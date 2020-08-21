@@ -1,0 +1,24 @@
+{
+  "name": "web-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "upper-case": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AswinAsok/Web-Development-Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AswinAsok/Web-Development-Challenge/issues"
+  },
+  "homepage": "https://github.com/AswinAsok/Web-Development-Challenge#readme"
+}
